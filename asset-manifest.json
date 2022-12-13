@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/boxes-react/static/css/main.a814822a.css",
+    "main.js": "/boxes-react/static/js/main.f72349c3.js",
+    "index.html": "/boxes-react/index.html",
+    "main.a814822a.css.map": "/boxes-react/static/css/main.a814822a.css.map",
+    "main.f72349c3.js.map": "/boxes-react/static/js/main.f72349c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a814822a.css",
+    "static/js/main.f72349c3.js"
+  ]
+}
